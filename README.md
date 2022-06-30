@@ -20,10 +20,10 @@ A project from the [Scrimba Frontend Developer Career Path](https://scrimba.com/
 
 ### Screenshots
 
-BBQ Splash Page - Desktop
+#### BBQ Splash Page - Desktop
 ![BBQ Splash Page - Desktop](images/bbq-splash-page-desktop.png)
 
-BBQ Splash Page - Mobile
+#### BBQ Splash Page - Mobile
 <img src="images/bbq-splash-page-mobile.jpg" alt="BBQ Splash Page - Mobile" width="50%"/>
 
 
